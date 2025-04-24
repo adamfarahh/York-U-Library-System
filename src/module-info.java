@@ -5,7 +5,7 @@
  * @author pc
  *
  */
-module EECS3311_ProjectPart2 
+module YorkUniversityLibrary
 {
 //	requires org.apache.poi.ooxml;
 //	requires org.apache.poi.poi;
